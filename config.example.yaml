@@ -1,0 +1,27 @@
+app:
+  env: local
+  httpaddr: 127.0.0.1
+  httpport: 3001
+  url: 
+
+db:
+  driver: mysql
+  host: 127.0.0.1
+  port: 3306
+  name: article
+  user: root
+  password: root
+  locale: Asia/Jakarta
+  maxopenconns: 30
+
+redis:
+  redispassword: null
+  redisport: 6379
+  expiredminute: 15
+
+algolia:
+  appkey: 554a5037798b09d9365ab9e1c52718cc
+  appkeycreate: 163e7c9729cc7cf7f16624e2245ad75a
+  appid: 97PJP2DYQ2
+  hitsperpage: 100
+  indicesarticle: test_ARTICLE
