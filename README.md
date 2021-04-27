@@ -17,11 +17,9 @@ And adjust your settings accordingly.
 
 ```goose up```
 
-And adjust your settings accordingly.
-
 
 ## Run application
 
 `gin -p 3000 main.go`
 
-And you are ready to Go! ;)
+And you are ready to Go!
