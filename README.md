@@ -14,6 +14,7 @@ And adjust your settings accordingly.
 
 
 ## Migrate Database
+Migrate database using goose
 
 ```goose up```
 
