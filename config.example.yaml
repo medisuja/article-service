@@ -20,8 +20,8 @@ redis:
   expiredminute: 15
 
 algolia:
-  appkey: 554a5037798b09d9365ab9e1c52718cc
-  appkeycreate: 163e7c9729cc7cf7f16624e2245ad75a
-  appid: 97PJP2DYQ2
+  appkey: 
+  appkeycreate: 
+  appid: 
   hitsperpage: 100
-  indicesarticle: test_ARTICLE
+  indicesarticle: 
